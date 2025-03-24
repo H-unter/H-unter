@@ -5,3 +5,6 @@
 >
 >- Engineering major: Electronic Systems and Internet of Things
 >- Science major: Data Science
+>
+>- $E=mc^2 + \text{AI}$
+
